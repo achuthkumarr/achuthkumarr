@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @achuthkumarr
-- 👀 I’m interested in full stack webdevelopment
-- 🌱 I’m currently learning react
+- 👀 I’m interested in Full Stack Web Development
+- 🔭 I’m currently working on Html, Css, JavaScript, Python
+- 🌱 I’m currently learning React, Node.js
 - 📫 How to reach me acuthkumar11@gmail.com
 
 <!---
