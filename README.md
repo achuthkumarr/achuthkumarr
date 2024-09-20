@@ -4,7 +4,7 @@
 - 🙌 I'm looking for Frontend and Full Stack Projects To Contirbute.
 - 🌱 I’m enhancing my Problem-Solving Skills
 - 💞️ I’m looking to collaborate.
-- 👨‍💻 Check out my portfolio at [https://sparkly-piroshki-01c2a5.netlify.app/)
+- 👨‍💻 Check out my portfolio at [https://sparkly-piroshki-01c2a5.netlify.app/]
 - 📫 How to reach me: [Mail](mailto:acuthkumar11@gmail.com) 
      
 ## 🌐 Socials:
