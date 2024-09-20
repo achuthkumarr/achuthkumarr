@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @achuthkumarr (Achuth kumar r) 
-[(achuthkumarr.netlify.app)][https://sparkly-piroshki-01c2a5.netlify.app/]
+[(achuthkumarr.netlify.app)](https://sparkly-piroshki-01c2a5.netlify.app/)
 - 👀 I’m interested in Web 2.0 and Machine Learning 
 - 🙌 I'm looking for Frontend and Full Stack Projects To Contirbute.
 - 🌱 I’m enhancing my Problem-Solving Skills
