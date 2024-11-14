@@ -1,10 +1,10 @@
 # 👋 Hi, I’m @achuthkumarr (Achuth kumar r) 
-[(achuthkumarr.netlify.app)](https://portfolioachuu.netlify.app)
+[(achuthkumarr.netlify.app)](https://myportfolioachuu.netlify.app/)
 - 👀 I’m interested in Web 2.0 and Machine Learning 
 - 🙌 I'm looking for Frontend and Full Stack Projects To Contirbute.
 - 🌱 I’m enhancing my Problem-Solving Skills
 - 💞️ I’m looking to collaborate.
-- 👨‍💻 Check out my portfolio at [https://portfolioachuu.netlify.app]
+- 👨‍💻 Check out my portfolio at [https://myportfolioachuu.netlify.app/]
 - 📫 How to reach me: [Mail](mailto:acuthkumar11@gmail.com) 
      
 ## 🌐 Socials:
